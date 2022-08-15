@@ -1,6 +1,6 @@
-## MSCI623 Project Title: Dry Bean Classification using Machine Learning Algorithm and Computer vision techniques
+## MSCI623 Project Title: Dry Bean Classification using Machine Learning Algorithm and Computer vision techniques:
 
-In this problem, we are predicting class of Dry bean based on its given morphological features and dimensional data.
+In this project, we are predicting class of Dry bean based on its given morphological features and dimensional data.
 
 Project file is written in Jupyter Notebook Markdown format (.ipynb), which comes readily with Anaconda package. This file can also be run on Google Colab.
 Dataset can be accessed from following UCI repository: https://archive.ics.uci.edu/ml/datasets/Dry+Bean+Dataset
