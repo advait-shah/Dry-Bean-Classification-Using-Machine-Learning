@@ -15,4 +15,4 @@ Table of Contents:
     4) k-Nearest Neighbours
 4) Discussion
 
-Among all four ML models, Random Forrest Decision tree model gave us the highest accuracy score of 92.5% in our Dry bean class prediction problem.
+Among all four ML models, Random Forest Decision tree model gave us the highest accuracy score of 92.5% in our Dry bean class prediction problem.
